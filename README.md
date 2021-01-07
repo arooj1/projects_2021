@@ -1,8 +1,9 @@
 ![title](images/title.PNG)
 
+# INSPIRATION
 The idea is to look for connections between a formal and an informal media posts. As the project is in the idea stage. The introduction will be populated once the project proceeds. 
 
-# RESOURCES
+# CODE
 - Language : python, Flask
 - ML Area  : NLP 
 
@@ -23,3 +24,6 @@ The follwoing areas will be considered for data collection purposes.
 
 ## 3-DATA CLEANING
 
+
+
+# RESOURCES
