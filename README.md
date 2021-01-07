@@ -21,6 +21,5 @@ The follwoing areas will be considered for data collection purposes.
 
 ![title](images/data_collection.PNG)
 
-
-
+## 3-DATA CLEANING
 
