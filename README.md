@@ -19,7 +19,7 @@ A rough draft of project pipiline is shared in the image below. Each stage is ex
 - Do our sentiments get influenced by international / national affairs?
 
 ## 2-DATA COLLECTION
-The follwoing areas will be considered for data collection purposes. 
+The follwoing areas will be considered for data collection purposes.  !FIXME: Add Reddit
 
 ![title](images/data_collection.PNG)
 
