@@ -1,6 +1,7 @@
 ![title](images/title.PNG)
 
 # INSPIRATION
+![title](images/inspiration.PNG)
 The idea is to look for connections between a formal and an informal media posts. As the project is in the idea stage. The introduction will be populated once the project proceeds. 
 
 # CODE
